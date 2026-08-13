@@ -1,0 +1,890 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Outcome School Blog - High-quality content to learn Android concepts."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Useful links"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Serial Port Api",
+          "description": "A library to access serial ports in Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-09-02T09:20:47Z",
+            "owner": "cepr",
+            "repo": "android-serialport-api",
+            "stars": 1305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrunchyCalendar",
+          "description": "A material calendar widget with infinite scrolling, date range selection and color customization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-02-05T13:23:30Z",
+            "owner": "CleverPumpkin",
+            "repo": "CrunchyCalendar",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-tensorflow-imageclassifier",
+          "description": "Android Things TensorFlow image classifier sample.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-05-26T17:55:37Z",
+            "owner": "androidthings",
+            "repo": "sample-tensorflow-imageclassifier",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-doorbell",
+          "description": "Android Things Doorbell sample.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-08-12T09:54:58Z",
+            "owner": "androidthings",
+            "repo": "doorbell",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Project Template",
+          "description": "Android Things empty project template.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-05-26T17:55:09Z",
+            "owner": "androidthings",
+            "repo": "new-project-template",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-weatherstation",
+          "description": "Android Things Weather Station sample.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-05-26T17:54:28Z",
+            "owner": "androidthings",
+            "repo": "weatherstation",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-simplepio",
+          "description": "Simple example of Android Things Peripheral I/O APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-05-26T17:55:30Z",
+            "owner": "androidthings",
+            "repo": "sample-simplepio",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drivers-sample",
+          "description": "Android Things driver samples: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-05-26T17:54:49Z",
+            "owner": "androidthings",
+            "repo": "drivers-samples",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-simpleui",
+          "description": "Android Things Simple UI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-05-26T17:55:33Z",
+            "owner": "androidthings",
+            "repo": "sample-simpleui",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-button",
+          "description": "Button and LED sample for Android Things.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-05-26T17:55:21Z",
+            "owner": "androidthings",
+            "repo": "sample-button",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-uartloopback",
+          "description": "UART Loopback sample for Android Things.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-05-26T17:55:40Z",
+            "owner": "androidthings",
+            "repo": "sample-uartloopback",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-nativepio",
+          "description": "3 simple examples using native c++ peripheral IO API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-05-26T17:55:26Z",
+            "owner": "androidthings",
+            "repo": "sample-nativepio",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-hd44780",
+          "description": "This sample demonstrates how to control the HD44780 LCD using PCF8574's I2C with Android Things.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-lsm9ds1",
+          "description": "This sample demonstrates how to control the LSM9DS1 acceleration sensor and integrate it to the Android SensorManager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-sh1106",
+          "description": "This sample demonstrates how to control the SH1106 OLED display using I2C with Android Things.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-hcsr04",
+          "description": "This sample demonstrates how to control the HC-SR04 ultrasonic ranging module and integrate it to the Android SensorManager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-ds3231",
+          "description": "This sample demonstrates how to control the DS3231 real-time clock (RTC) using I2C with Android Things.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robot",
+          "description": "Android Things robot, controlled by web interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-16T13:23:56Z",
+            "owner": "euler2dot7",
+            "repo": "android_things_robot",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "native-libandroidthings",
+          "description": "Android Things Native Library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-05-26T17:54:40Z",
+            "owner": "androidthings",
+            "repo": "native-libandroidthings",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "example Speech-To-Text",
+          "description": "Speech-to-text with open source CMU Pocketsphinx recognizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-26T22:48:35Z",
+            "owner": "Nilhcem",
+            "repo": "audiofun-androidthings",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remote Storage",
+          "description": "Create an FTP server using on raspberry pi and build your own wireless storage & backup solution for home.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-05-11T16:17:20Z",
+            "owner": "kevalpatel2106",
+            "repo": "remote-storage-android-things",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remote-barometer",
+          "description": "Android Things project using BMP-180 pressure sensor, Firebase and android mobile app for rendering data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-02T10:03:50Z",
+            "owner": "SergiyKorotun",
+            "repo": "android-things-remote-barometer",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-softpwm",
+          "description": "This sample demonstrates how to control both software and hardware PWM.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2018-05-10T11:50:20Z",
+            "owner": "leinardi",
+            "repo": "androidthings-pio",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collision Detector",
+          "description": "Get the distance of the object and alert using LED when object is too close using ultrasonic ranging sensor HC-SR04.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-05-11T05:37:15Z",
+            "owner": "kevalpatel2106",
+            "repo": "collision-detector-android-things",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoReFindMi",
+          "description": "Musical, button combination-finding game for Rainbow HAT for Android Things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2018-07-31T20:20:38Z",
+            "owner": "tomaszrykala",
+            "repo": "DoReFindMi",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Switch",
+          "description": "Control your home switches remotely from phone using Android Things & firebase realtime database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-05-10T07:33:40Z",
+            "owner": "kevalpatel2106",
+            "repo": "smartswitch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Room",
+          "description": "This sample shows how turn on/off a light by using a Relay and Firebase. / Este ejemplo muestra como prender y apagar la luz usando un relay y firebase",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2018-08-26T21:30:13Z",
+            "owner": "carlosgub",
+            "repo": "Cuarto-Inteligente-Repo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "candle",
+          "description": "Simulation of a candle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2017-01-11T10:49:24Z",
+            "owner": "Polidea",
+            "repo": "at_candle",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "example GPIO input",
+          "description": "GPIO input (button) clean code sample",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-03-13T19:44:25Z",
+            "owner": "blundell",
+            "repo": "androidthings-gpio-input",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codelab button-Firebase",
+          "description": "Codelab starting from button input to Firebase sync",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-15T12:06:06Z",
+            "owner": "danybony",
+            "repo": "android-things-button-sample",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smile Candy Machine",
+          "description": "Presented at Google I/O 2017 - a candy dispenser activated by smiles. Uses Google Cloud Vision API and Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-04-17T13:22:45Z",
+            "owner": "luisleao",
+            "repo": "smiledispenser",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "example PWM",
+          "description": "PWM (speaker/buzzer) clean code sample",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-01-14T06:15:22Z",
+            "owner": "blundell",
+            "repo": "androidthings-pwm",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "example GPIO output",
+          "description": "GPIO output (LED) clean code sample",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-03-13T19:40:12Z",
+            "owner": "blundell",
+            "repo": "androidthings-gpio-output",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Sample apps and libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "contrib-drivers",
+          "description": "Android Things Open source peripheral drivers: RGB LED strip (APA102), Temperature sensor (BMP280), Capacitive touch (CAP12xx), UART GPS, Segment display (HT16k33), Accelerometer (mma7660fc), PWM servo, PWM speaker, SSD1306 OLED display, 4-Digit Segment Display (tm1637), RainbowHat, SenseHat",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-08-30T20:09:27Z",
+            "owner": "androidthings",
+            "repo": "contrib-drivers",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RFID-RC522",
+          "description": "RFID reader for MIFARE cards. Authentication, reading and writing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-02-04T17:20:26Z",
+            "owner": "Galarzaa90",
+            "repo": "android-things-rc522",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DS3231",
+          "description": "real-time clock (RTC)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HC-SR04",
+          "description": "ultrasonic ranging module",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HD44780",
+          "description": "alphanumeric dot matrix LCD",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LSM9DS1",
+          "description": "3D accelerometer, 3D gyroscope, 3D magnetometer and temperature sensor",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SH1106",
+          "description": "OLED display",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TSL256x",
+          "description": "Light-to-digital sensor driver",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-11-13T09:22:43Z",
+            "owner": "leinardi",
+            "repo": "androidthings-drivers",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1602 LCD display",
+          "description": "1602 LCD display",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-10T13:08:02Z",
+            "owner": "Nilhcem",
+            "repo": "1602A-androidthings",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DaSiAnThiLib",
+          "description": "HD44870 type displays (via LCM1602), PCF8574(A), PCF8591, Push buttons connected via PCF8574, TCS34725 I2C Colour sensor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-12T20:22:15Z",
+            "owner": "davemckelvie",
+            "repo": "things-drivers",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ledcontrol",
+          "description": "MAX72xx LED Matrix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-10T13:51:58Z",
+            "owner": "Nilhcem",
+            "repo": "ledcontrol-androidthings",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HC-SR04 Ultrasonic UserSensor",
+          "description": "HC-SR04 Ultrasonic UserSensor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-10-09T14:04:12Z",
+            "owner": "vishal-android-freak",
+            "repo": "HC-SR04-AndroidThings-Library",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP3008",
+          "description": "Sample to use MCP3008 Analog to Digital Converter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-03-20T08:28:36Z",
+            "owner": "PaulTR",
+            "repo": "AndroidThingsMCP3008ADC",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WS2801",
+          "description": "LED strips WS2801",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-08-05T13:33:49Z",
+            "owner": "xrigau",
+            "repo": "androidthings-ws2801-driver",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A4988",
+          "description": "A4988 stepper motor driver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-06-07T13:00:25Z",
+            "owner": "Polidea",
+            "repo": "Polithings",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "numpad12",
+          "description": "Numpad with 12 buttons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-06-07T13:00:25Z",
+            "owner": "Polidea",
+            "repo": "Polithings",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoftPwm",
+          "description": "Software PWM library for Android Things",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2018-05-10T11:50:20Z",
+            "owner": "leinardi",
+            "repo": "androidthings-pio",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ULN2003",
+          "description": "28BYJ-48 Stepper motor with ULN2003 driver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-06-07T13:00:25Z",
+            "owner": "Polidea",
+            "repo": "Polithings",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HC-SR501 Motion Sensor",
+          "description": "Motion Sensor Driver with creation tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-03-13T20:37:38Z",
+            "owner": "blundell",
+            "repo": "PirMotionSensorModuleTut",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPR121",
+          "description": "Proximity capacitive touch sensor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-10T15:56:56Z",
+            "owner": "Nilhcem",
+            "repo": "mpr121-androidthings",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bosh BMP85/BMP180",
+          "description": "Bosh BMP85/BMP180 barometer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-01-06T17:33:08Z",
+            "owner": "euler2dot7",
+            "repo": "android_things_bmp180",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADXL345 3-axis accelerometer",
+          "description": "ADXL345 3-axis accelerometer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-08T14:27:45Z",
+            "owner": "cagdasc",
+            "repo": "AndroidThings-ADXL345",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparkfun",
+          "description": "Combined driver for the sparkfun blocks: OLEDBlock, LSM9DS0, UART",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-22T08:01:46Z",
+            "owner": "hongcheng79",
+            "repo": "androidthings",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BH1750",
+          "description": "Light sensor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-03T01:53:36Z",
+            "owner": "alvarowolfx",
+            "repo": "bh1750-androidthings",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keypad",
+          "description": "Matrix Keypad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-10T16:48:17Z",
+            "owner": "Nilhcem",
+            "repo": "keypad-androidthings",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADXL362 Accelerometer",
+          "description": "ADXL362 Accelerometer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-01-11T05:01:58Z",
+            "owner": "vishal-android-freak",
+            "repo": "ADXL362-Interfacing-Library",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HMC5883L 3-axis magnetometer",
+          "description": "HMC5883L 3-axis magnetometer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-12-28T11:53:07Z",
+            "owner": "cagdasc",
+            "repo": "AndroidThings-HMC5883L",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPR121",
+          "description": "MPR121 I2C touch sensor driver (tested on \"Grove - I2C Touch Sensor\")",
+          "children": []
+        }
+      ],
+      "title": "Drivers"
+    },
+    {
+      "description": "To the extent possible under law, Amit Shekhar has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "Your contributions are always welcome! Just follow the following format: If you like it, give a star to this project",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:13:11.169Z",
+    "original_repository": "amitshekhariitbhu/awesome-android-things",
+    "original_repository_sha": "4a7a3f2809b06d45163f75b1a8b564ea0038e15d",
+    "enhanced_repository": "enhansome/enhansome-android-things",
+    "enhanced_repository_description": null,
+    "title": "Awesome Android Things with stars"
+  }
+}
