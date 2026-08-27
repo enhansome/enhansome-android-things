@@ -922,9 +922,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:53:34.309Z",
-    "original_repository": "amitshekhariitbhu/awesome-android-things",
-    "original_repository_id": 76656714,
+    "last_updated": "2026-08-27T11:21:29.386Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 76656714,
+      "language": "Java",
+      "last_commit": "2024-07-20T04:43:41Z",
+      "owner": "amitshekhariitbhu",
+      "repo": "awesome-android-things",
+      "stars": 1004
+    },
     "original_repository_sha": "4a7a3f2809b06d45163f75b1a8b564ea0038e15d",
     "enhanced_repository": "enhansome/enhansome-android-things",
     "enhanced_repository_description": null,
