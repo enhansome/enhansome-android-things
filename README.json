@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accessing serial ports for Android",
+                "homepage": "http://code.google.com/p/android-serialport-api",
                 "id": 3810840,
                 "language": "C",
+                "license": null,
                 "last_commit": "2015-09-02T09:20:47Z",
+                "open_issues": 11,
                 "owner": "cepr",
                 "repo": "android-serialport-api",
-                "stars": 1304
+                "stars": 1304,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -28,12 +33,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful material calendar with endless scroll, range selection and a lot more!",
+                "homepage": null,
                 "id": 134849459,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2024-02-05T13:23:30Z",
+                "open_issues": 14,
                 "owner": "CleverPumpkin",
                 "repo": "CrunchyCalendar",
-                "stars": 647
+                "stars": 647,
+                "topics": [
+                  "android",
+                  "calendar",
+                  "calendar-view",
+                  "custom-view",
+                  "java",
+                  "jcenter",
+                  "kotlin",
+                  "material-calendar",
+                  "material-design",
+                  "range-selection"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -44,12 +65,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Classify camera images locally using TensorFlow models",
+                "homepage": null,
                 "id": 81471487,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:55:37Z",
+                "open_issues": 10,
                 "owner": "androidthings",
                 "repo": "sample-tensorflow-imageclassifier",
-                "stars": 618
+                "stars": 618,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -60,12 +86,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cloud-based photo doorbell with companion app",
+                "homepage": null,
                 "id": 76376140,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-12T09:54:58Z",
+                "open_issues": 9,
                 "owner": "androidthings",
                 "repo": "doorbell",
-                "stars": 293
+                "stars": 293,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -76,12 +107,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 76376180,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:55:09Z",
+                "open_issues": 0,
                 "owner": "androidthings",
                 "repo": "new-project-template",
-                "stars": 263
+                "stars": 263,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -92,12 +128,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Sensor-based peripheral sample using Android Things",
+                "homepage": null,
                 "id": 76376292,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:54:28Z",
+                "open_issues": 4,
                 "owner": "androidthings",
                 "repo": "weatherstation",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -108,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Basic Peripheral I/O examples with Android Things",
+                "homepage": null,
                 "id": 76376211,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:55:30Z",
+                "open_issues": 2,
                 "owner": "androidthings",
                 "repo": "sample-simplepio",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -124,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Peripheral driver samples",
+                "homepage": null,
                 "id": 76376159,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:54:49Z",
+                "open_issues": 6,
                 "owner": "androidthings",
                 "repo": "drivers-samples",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -140,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Connect GPIO states with a graphical UI on Android Things",
+                "homepage": null,
                 "id": 76376243,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-05-26T17:55:33Z",
+                "open_issues": 3,
                 "owner": "androidthings",
                 "repo": "sample-simpleui",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -156,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Basic input and output using a button and LED",
+                "homepage": null,
                 "id": 76376198,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:55:21Z",
+                "open_issues": 1,
                 "owner": "androidthings",
                 "repo": "sample-button",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -172,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Echo received characters over a UART with Android Things",
+                "homepage": null,
                 "id": 76376264,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:55:40Z",
+                "open_issues": 5,
                 "owner": "androidthings",
                 "repo": "sample-uartloopback",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -188,12 +254,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Basic Peripheral I/O examples in C/C++ with Android Things",
+                "homepage": null,
                 "id": 81471035,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:55:26Z",
+                "open_issues": 5,
                 "owner": "androidthings",
                 "repo": "sample-nativepio",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -204,12 +275,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -220,12 +315,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -236,12 +355,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -252,12 +395,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -268,12 +435,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -284,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Things robot, controlled by  web interface: with camera, servo gimbal, distance sensor(hc-sr04), lcd display(ssd), rgb led, halt button, motor-drive (h-bridge), dc motors.",
+                "homepage": null,
                 "id": 81971256,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-02-16T13:23:56Z",
+                "open_issues": 1,
                 "owner": "euler2dot7",
                 "repo": "android_things_robot",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -300,12 +496,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "NDK library for exposing Peripheral I/O APIs in C/C++",
+                "homepage": null,
                 "id": 81470441,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-26T17:54:40Z",
+                "open_issues": 2,
                 "owner": "androidthings",
                 "repo": "native-libandroidthings",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -316,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Things project demonstrating Text-To-Speech and Speech-To-Text",
+                "homepage": null,
                 "id": 83195005,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-02-26T22:48:35Z",
+                "open_issues": 2,
                 "owner": "Nilhcem",
                 "repo": "audiofun-androidthings",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -332,12 +538,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create an FTP server using on raspberry pi and build your own wireless storage & backup solution for home.",
+                "homepage": null,
                 "id": 90628980,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-11T16:17:20Z",
+                "open_issues": 0,
                 "owner": "kevalpatel2106",
                 "repo": "remote-storage-android-things",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "android",
+                  "androidthings",
+                  "ftp-server",
+                  "raspberry-pi",
+                  "remotestorage"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -348,12 +565,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Things project using BMP-180 pressure sensor Firebase and android mobile app for rendering data",
+                "homepage": null,
                 "id": 80713001,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-02-02T10:03:50Z",
+                "open_issues": 0,
                 "owner": "SergiyKorotun",
                 "repo": "android-things-remote-barometer",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "sample-app"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -364,12 +590,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things user-space PIO",
+                "homepage": null,
                 "id": 115870695,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-10T11:50:20Z",
+                "open_issues": 0,
                 "owner": "leinardi",
                 "repo": "androidthings-pio",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "android-ndk",
+                  "android-things",
+                  "jni",
+                  "pwm",
+                  "raspberry-pi",
+                  "softpwm",
+                  "software-pwm"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -380,12 +619,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the distance of the object using Android Things & ultrasonic ranging sensor HC-SR04.",
+                "homepage": null,
                 "id": 90369629,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-11T05:37:15Z",
+                "open_issues": 0,
                 "owner": "kevalpatel2106",
                 "repo": "collision-detector-android-things",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "android",
+                  "androidthings",
+                  "distance-measures",
+                  "raspberry-pi",
+                  "ultrasonic-sensor"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -396,12 +646,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 78162359,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2018-07-31T20:20:38Z",
+                "open_issues": 1,
                 "owner": "tomaszrykala",
                 "repo": "DoReFindMi",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -412,12 +667,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control your home switches remotely from phone using Android Things.",
+                "homepage": null,
                 "id": 89578478,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-10T07:33:40Z",
+                "open_issues": 0,
                 "owner": "kevalpatel2106",
                 "repo": "smartswitch",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "android",
+                  "androidthings",
+                  "firebase-database",
+                  "rasberry-pi",
+                  "remote-control",
+                  "switch"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -428,12 +695,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 143586589,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2018-08-26T21:30:13Z",
+                "open_issues": 0,
                 "owner": "carlosgub",
                 "repo": "Cuarto-Inteligente-Repo",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "android-example",
+                  "android-things",
+                  "android-things-starter-kit",
+                  "firebase",
+                  "kotlin",
+                  "kotlin-android"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -444,12 +723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example of candle powered by Android Things",
+                "homepage": null,
                 "id": 78536287,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2017-01-11T10:49:24Z",
+                "open_issues": 0,
                 "owner": "Polidea",
                 "repo": "at_candle",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -460,12 +744,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AndroidThings GPIO input example using a Button",
+                "homepage": null,
                 "id": 81716728,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-03-13T19:44:25Z",
+                "open_issues": 0,
                 "owner": "blundell",
                 "repo": "androidthings-gpio-input",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "android-things",
+                  "gpio",
+                  "rainbow-hat"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -476,12 +769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "From a button-controlled LED to Firebase-synched counter!",
+                "homepage": null,
                 "id": 81424814,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-02-15T12:06:06Z",
+                "open_issues": 0,
                 "owner": "danybony",
                 "repo": "android-things-button-sample",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -492,12 +790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 91119439,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-04-17T13:22:45Z",
+                "open_issues": 0,
                 "owner": "luisleao",
                 "repo": "smiledispenser",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -508,12 +811,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AndroidThings PWM example using the Piezo Buzzer",
+                "homepage": null,
                 "id": 83240576,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-01-14T06:15:22Z",
+                "open_issues": 0,
                 "owner": "blundell",
                 "repo": "androidthings-pwm",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -524,12 +832,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AndroidThings GPIO output example using an LED",
+                "homepage": null,
                 "id": 81758269,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-03-13T19:40:12Z",
+                "open_issues": 0,
                 "owner": "blundell",
                 "repo": "androidthings-gpio-output",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "android-thngs",
+                  "gpio",
+                  "rainbow-hat"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             }
@@ -547,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open source peripheral drivers",
+                "homepage": null,
                 "id": 76375829,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-30T20:09:27Z",
+                "open_issues": 35,
                 "owner": "androidthings",
                 "repo": "contrib-drivers",
-                "stars": 561
+                "stars": 561,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -563,12 +885,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android library to communicate with RFID Module RC522",
+                "homepage": null,
                 "id": 86503256,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-02-04T17:20:26Z",
+                "open_issues": 4,
                 "owner": "Galarzaa90",
                 "repo": "android-things-rc522",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "android-things",
+                  "java",
+                  "mifare",
+                  "mifare1k",
+                  "rc522",
+                  "rfid",
+                  "rfid-rc522"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -579,12 +916,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -595,12 +956,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -611,12 +996,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -627,12 +1036,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -643,12 +1076,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -659,12 +1116,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things open source peripheral drivers",
+                "homepage": null,
                 "id": 113079801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-13T09:22:43Z",
+                "open_issues": 4,
                 "owner": "leinardi",
                 "repo": "androidthings-drivers",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "android",
+                  "android-things",
+                  "driver",
+                  "ds3231",
+                  "e-ink",
+                  "e-paper",
+                  "gdew075t8",
+                  "hcsr04",
+                  "hd44780",
+                  "i2c",
+                  "lsm9ds1",
+                  "pcf8574",
+                  "raspberry-pi",
+                  "sh1106",
+                  "tsl2560",
+                  "tsl2561",
+                  "tsl2562",
+                  "tsl2563"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -675,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "1602 LCD module driver for Android Things",
+                "homepage": null,
                 "id": 77669178,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-10T13:08:02Z",
+                "open_issues": 0,
                 "owner": "Nilhcem",
                 "repo": "1602A-androidthings",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -691,12 +1177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drivers for Android Things",
+                "homepage": "http://www.android.geek.nz",
                 "id": 77403831,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-11-12T20:22:15Z",
+                "open_issues": 2,
                 "owner": "davemckelvie",
                 "repo": "things-drivers",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -707,12 +1198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Things Port of the Arduino LedControl library for the MAX7219 LED matrix module",
+                "homepage": null,
                 "id": 86193501,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-10T13:51:58Z",
+                "open_issues": 0,
                 "owner": "Nilhcem",
                 "repo": "ledcontrol-androidthings",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -723,12 +1219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HC-SR04 Ultrasonic UserSensor library for Android Things",
+                "homepage": null,
                 "id": 76754416,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-10-09T14:04:12Z",
+                "open_issues": 2,
                 "owner": "vishal-android-freak",
                 "repo": "HC-SR04-AndroidThings-Library",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -739,12 +1240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample for communicating with the MCP3008 ADC",
+                "homepage": null,
                 "id": 85536271,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-03-20T08:28:36Z",
+                "open_issues": 2,
                 "owner": "PaulTR",
                 "repo": "AndroidThingsMCP3008ADC",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -755,12 +1261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Things driver for the WS2801 RGB LED strip (includes demo app)",
+                "homepage": null,
                 "id": 77649652,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-08-05T13:33:49Z",
+                "open_issues": 1,
                 "owner": "xrigau",
                 "repo": "androidthings-ws2801-driver",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -771,12 +1282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of drivers for Android Things",
+                "homepage": null,
                 "id": 81179032,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2019-06-07T13:00:25Z",
+                "open_issues": 1,
                 "owner": "Polidea",
                 "repo": "Polithings",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -787,12 +1303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of drivers for Android Things",
+                "homepage": null,
                 "id": 81179032,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2019-06-07T13:00:25Z",
+                "open_issues": 1,
                 "owner": "Polidea",
                 "repo": "Polithings",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -803,12 +1324,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Things user-space PIO",
+                "homepage": null,
                 "id": 115870695,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-10T11:50:20Z",
+                "open_issues": 0,
                 "owner": "leinardi",
                 "repo": "androidthings-pio",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "android-ndk",
+                  "android-things",
+                  "jni",
+                  "pwm",
+                  "raspberry-pi",
+                  "softpwm",
+                  "software-pwm"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -819,12 +1353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of drivers for Android Things",
+                "homepage": null,
                 "id": 81179032,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2019-06-07T13:00:25Z",
+                "open_issues": 1,
                 "owner": "Polidea",
                 "repo": "Polithings",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -835,12 +1374,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Things - PirSensor Tutorial",
+                "homepage": null,
                 "id": 80158093,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-03-13T20:37:38Z",
+                "open_issues": 0,
                 "owner": "blundell",
                 "repo": "PirMotionSensorModuleTut",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "android-things",
+                  "iot"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -851,12 +1398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MPR121 driver for Android Things",
+                "homepage": null,
                 "id": 82445280,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-10T15:56:56Z",
+                "open_issues": 0,
                 "owner": "Nilhcem",
                 "repo": "mpr121-androidthings",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -867,12 +1419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Things Bosh BMP85/BMP180 Driver Example Java",
+                "homepage": null,
                 "id": 78132369,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-01-06T17:33:08Z",
+                "open_issues": 2,
                 "owner": "euler2dot7",
                 "repo": "android_things_bmp180",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -883,12 +1440,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADXL345 3-axis accelerometer AndroidThings device driver",
+                "homepage": null,
                 "id": 77175857,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-08T14:27:45Z",
+                "open_issues": 0,
                 "owner": "cagdasc",
                 "repo": "AndroidThings-ADXL345",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "android-library",
+                  "android-things",
+                  "androidthings",
+                  "driver",
+                  "embedded",
+                  "i2c",
+                  "i2c-sensors"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -899,12 +1469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 79407576,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-02-22T08:01:46Z",
+                "open_issues": 0,
                 "owner": "hongcheng79",
                 "repo": "androidthings",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -915,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Things driver for BH1750 ambient light sensor",
+                "homepage": null,
                 "id": 100563453,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-09-03T01:53:36Z",
+                "open_issues": 0,
                 "owner": "alvarowolfx",
                 "repo": "bh1750-androidthings",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -931,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matrix Keypad driver for Android Things",
+                "homepage": null,
                 "id": 96333454,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-10T16:48:17Z",
+                "open_issues": 0,
                 "owner": "Nilhcem",
                 "repo": "keypad-androidthings",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -947,12 +1532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADXL362 Accelerometer Java and Android things Library for Raspberry Pi",
+                "homepage": null,
                 "id": 76864009,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2017-01-11T05:01:58Z",
+                "open_issues": 0,
                 "owner": "vishal-android-freak",
                 "repo": "ADXL362-Interfacing-Library",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             },
@@ -963,12 +1553,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HMC5883L 3-axis magnetometer AndroidThings device driver",
+                "homepage": null,
                 "id": 77295258,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-12-28T11:53:07Z",
+                "open_issues": 0,
                 "owner": "cagdasc",
                 "repo": "AndroidThings-HMC5883L",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "android-things",
+                  "driver",
+                  "embedded",
+                  "i2c",
+                  "i2c-sensors"
+                ]
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
             }
@@ -982,15 +1585,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:28.366Z",
+    "last_updated": "2026-08-29T04:35:35.633Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome android things tutorials, libraries and much more at one place",
+      "homepage": "https://outcomeschool.com",
       "id": 76656714,
       "language": "Java",
+      "license": null,
       "last_commit": "2024-07-20T04:43:41Z",
+      "open_issues": 6,
       "owner": "amitshekhariitbhu",
       "repo": "awesome-android-things",
-      "stars": 1004
+      "stars": 1004,
+      "topics": [
+        "android-things",
+        "awesome",
+        "blogs",
+        "driver",
+        "sample-app",
+        "tutorial",
+        "tutorials"
+      ]
     },
     "original_repository_sha": "4a7a3f2809b06d45163f75b1a8b564ea0038e15d",
     "enhanced_repository": "enhansome/enhansome-android-things",
