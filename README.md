@@ -40,7 +40,7 @@
 ### Sample apps and libraries
 
 * [Serial Port Api](https://github.com/cepr/android-serialport-api) ⭐ 1,305 | 🐛 11 | 🌐 C | 📅 2015-09-02 - A library to access serial ports in Android.
-* [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) ⭐ 647 | 🐛 14 | 🌐 Kotlin | 📅 2024-02-05 - A material calendar widget with infinite scrolling, date range selection and color customization.
+* [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) ⭐ 648 | 🐛 14 | 🌐 Kotlin | 📅 2024-02-05 - A material calendar widget with infinite scrolling, date range selection and color customization.
 * [sample-tensorflow-imageclassifier](https://github.com/androidthings/sample-tensorflow-imageclassifier) ⚠️ Archived - Android Things TensorFlow image classifier sample.
 * [sample-doorbell](https://github.com/androidthings/doorbell) ⚠️ Archived - Android Things Doorbell sample.
 * [New Project Template](https://github.com/androidthings/new-project-template) ⚠️ Archived - Android Things empty project template.
@@ -132,4 +132,4 @@ Your contributions are always welcome! Just follow the following format: `[refer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
