@@ -56,7 +56,7 @@
 * [sample-sh1106](https://github.com/leinardi/androidthings-drivers/tree/master/sample-sh1106) ⚠️ Archived - This sample demonstrates how to control the SH1106 OLED display using I2C with Android Things.
 * [sample-hcsr04](https://github.com/leinardi/androidthings-drivers/tree/master/sample-hcsr04) ⚠️ Archived - This sample demonstrates how to control the HC-SR04 ultrasonic ranging module and integrate it to the Android SensorManager.
 * [sample-ds3231](https://github.com/leinardi/androidthings-drivers/tree/master/sample-ds3231) ⚠️ Archived - This sample demonstrates how to control the DS3231 real-time clock (RTC) using I2C with Android Things.
-* [Robot](https://github.com/euler2dot7/android_things_robot) ⭐ 31 | 🐛 1 | 🌐 Java | 📅 2017-02-16 - Android Things robot, controlled by web interface.
+* [Robot](https://github.com/euler2dot7/android_things_robot) ⭐ 32 | 🐛 1 | 🌐 Java | 📅 2017-02-16 - Android Things robot, controlled by web interface.
 * [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) ⚠️ Archived - Android Things Native Library.
 * [example Speech-To-Text](https://github.com/Nilhcem/audiofun-androidthings/tree/pocketsphinx/) ⭐ 27 | 🐛 2 | 🌐 Java | 📅 2017-02-26 Speech-to-text with open source CMU Pocketsphinx recognizer.
 * [Remote Storage](https://github.com/kevalpatel2106/remote-storage-android-things) ⭐ 21 | 🐛 0 | 🌐 Java | 📅 2017-05-11 - Create an FTP server using on raspberry pi and build your own wireless storage & backup solution for home.
@@ -132,4 +132,4 @@ Your contributions are always welcome! Just follow the following format: `[refer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

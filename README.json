@@ -484,7 +484,7 @@
                 "open_issues": 1,
                 "owner": "euler2dot7",
                 "repo": "android_things_robot",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
@@ -894,7 +894,7 @@
                 "open_issues": 4,
                 "owner": "Galarzaa90",
                 "repo": "android-things-rc522",
-                "stars": 45,
+                "stars": 44,
                 "topics": [
                   "android",
                   "android-library",
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:55:00.937Z",
+    "last_updated": "2026-09-08T14:37:06.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome android things tutorials, libraries and much more at one place",
@@ -1597,7 +1597,7 @@
       "open_issues": 6,
       "owner": "amitshekhariitbhu",
       "repo": "awesome-android-things",
-      "stars": 1004,
+      "stars": 1003,
       "topics": [
         "android-things",
         "awesome",
