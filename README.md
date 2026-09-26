@@ -40,7 +40,7 @@
 ### Sample apps and libraries
 
 * [Serial Port Api](https://github.com/cepr/android-serialport-api) ⭐ 1,306 | 🐛 11 | 🌐 C | 📅 2015-09-02 - A library to access serial ports in Android.
-* [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) ⭐ 648 | 🐛 14 | 🌐 Kotlin | 📅 2024-02-05 - A material calendar widget with infinite scrolling, date range selection and color customization.
+* [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) ⭐ 647 | 🐛 14 | 🌐 Kotlin | 📅 2024-02-05 - A material calendar widget with infinite scrolling, date range selection and color customization.
 * [sample-tensorflow-imageclassifier](https://github.com/androidthings/sample-tensorflow-imageclassifier) ⚠️ Archived - Android Things TensorFlow image classifier sample.
 * [sample-doorbell](https://github.com/androidthings/doorbell) ⚠️ Archived - Android Things Doorbell sample.
 * [New Project Template](https://github.com/androidthings/new-project-template) ⚠️ Archived - Android Things empty project template.
@@ -87,7 +87,7 @@
 * [DaSiAnThiLib](https://github.com/davemckelvie/things-drivers) ⭐ 24 | 🐛 2 | 🌐 Java | 📅 2023-11-12 - HD44870 type displays (via LCM1602), PCF8574(A), PCF8591, Push buttons connected via PCF8574, TCS34725 I2C Colour sensor
 * [ledcontrol](https://github.com/Nilhcem/ledcontrol-androidthings) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2018-05-10 - MAX72xx LED Matrix
 * [HC-SR04 Ultrasonic UserSensor](https://github.com/vishal-android-freak/HC-SR04-AndroidThings-Library) ⭐ 16 | 🐛 2 | 🌐 Java | 📅 2018-10-09 - HC-SR04 Ultrasonic UserSensor
-* [MCP3008](https://github.com/PaulTR/AndroidThingsMCP3008ADC) ⭐ 16 | 🐛 2 | 🌐 Java | 📅 2017-03-20 - Sample to use MCP3008 Analog to Digital Converter
+* [MCP3008](https://github.com/PaulTR/AndroidThingsMCP3008ADC) ⭐ 15 | 🐛 2 | 🌐 Java | 📅 2017-03-20 - Sample to use MCP3008 Analog to Digital Converter
 * [WS2801](https://github.com/xrigau/androidthings-ws2801-driver) ⭐ 15 | 🐛 1 | 🌐 Java | 📅 2018-08-05 - LED strips WS2801
 * [A4988](https://github.com/Polidea/Polithings/tree/master/a4988) ⭐ 14 | 🐛 1 | 🌐 Kotlin | 📅 2019-06-07 - A4988 stepper motor driver
 * [numpad12](https://github.com/Polidea/Polithings/tree/master/numpad) ⭐ 14 | 🐛 1 | 🌐 Kotlin | 📅 2019-06-07 - Numpad with 12 buttons
@@ -132,4 +132,4 @@ Your contributions are always welcome! Just follow the following format: `[refer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
