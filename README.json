@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:24:32.751Z",
+    "last_updated": "2026-10-05T19:19:08.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome android things tutorials, libraries and much more at one place",
@@ -1597,7 +1597,7 @@
       "open_issues": 6,
       "owner": "amitshekhariitbhu",
       "repo": "awesome-android-things",
-      "stars": 1006,
+      "stars": 1005,
       "topics": [
         "android-things",
         "awesome",
