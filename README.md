@@ -59,7 +59,7 @@
 * [Robot](https://github.com/euler2dot7/android_things_robot) ⭐ 32 | 🐛 1 | 🌐 Java | 📅 2017-02-16 - Android Things robot, controlled by web interface.
 * [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) ⚠️ Archived - Android Things Native Library.
 * [example Speech-To-Text](https://github.com/Nilhcem/audiofun-androidthings/tree/pocketsphinx/) ⭐ 27 | 🐛 2 | 🌐 Java | 📅 2017-02-26 Speech-to-text with open source CMU Pocketsphinx recognizer.
-* [Remote Storage](https://github.com/kevalpatel2106/remote-storage-android-things) ⭐ 21 | 🐛 0 | 🌐 Java | 📅 2017-05-11 - Create an FTP server using on raspberry pi and build your own wireless storage & backup solution for home.
+* [Remote Storage](https://github.com/kevalpatel2106/remote-storage-android-things) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2017-05-11 - Create an FTP server using on raspberry pi and build your own wireless storage & backup solution for home.
 * [remote-barometer](https://github.com/SergiyKorotun/android-things-remote-barometer) ⭐ 17 | 🐛 0 | 🌐 Java | 📅 2017-02-02 - Android Things project using BMP-180 pressure sensor, Firebase and android mobile app for rendering data
 * [sample-softpwm](https://github.com/leinardi/androidthings-pio/tree/master/sample-softpwm) ⚠️ Archived - This sample demonstrates how to control both software and hardware PWM.
 * [Collision Detector](https://github.com/kevalpatel2106/collision-detector-android-things) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2017-05-11 - Get the distance of the object and alert using LED when object is too close using ultrasonic ranging sensor HC-SR04.
@@ -132,4 +132,4 @@ Your contributions are always welcome! Just follow the following format: `[refer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
