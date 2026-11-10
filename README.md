@@ -40,7 +40,7 @@
 ### Sample apps and libraries
 
 * [Serial Port Api](https://github.com/cepr/android-serialport-api) ⭐ 1,308 | 🐛 11 | 🌐 C | 📅 2015-09-02 - A library to access serial ports in Android.
-* [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) ⭐ 648 | 🐛 14 | 🌐 Kotlin | 📅 2024-02-05 - A material calendar widget with infinite scrolling, date range selection and color customization.
+* [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) ⭐ 649 | 🐛 14 | 🌐 Kotlin | 📅 2024-02-05 - A material calendar widget with infinite scrolling, date range selection and color customization.
 * [sample-tensorflow-imageclassifier](https://github.com/androidthings/sample-tensorflow-imageclassifier) ⚠️ Archived - Android Things TensorFlow image classifier sample.
 * [sample-doorbell](https://github.com/androidthings/doorbell) ⚠️ Archived - Android Things Doorbell sample.
 * [New Project Template](https://github.com/androidthings/new-project-template) ⚠️ Archived - Android Things empty project template.
@@ -56,7 +56,7 @@
 * [sample-sh1106](https://github.com/leinardi/androidthings-drivers/tree/master/sample-sh1106) ⚠️ Archived - This sample demonstrates how to control the SH1106 OLED display using I2C with Android Things.
 * [sample-hcsr04](https://github.com/leinardi/androidthings-drivers/tree/master/sample-hcsr04) ⚠️ Archived - This sample demonstrates how to control the HC-SR04 ultrasonic ranging module and integrate it to the Android SensorManager.
 * [sample-ds3231](https://github.com/leinardi/androidthings-drivers/tree/master/sample-ds3231) ⚠️ Archived - This sample demonstrates how to control the DS3231 real-time clock (RTC) using I2C with Android Things.
-* [Robot](https://github.com/euler2dot7/android_things_robot) ⭐ 32 | 🐛 1 | 🌐 Java | 📅 2017-02-16 - Android Things robot, controlled by web interface.
+* [Robot](https://github.com/euler2dot7/android_things_robot) ⭐ 33 | 🐛 1 | 🌐 Java | 📅 2017-02-16 - Android Things robot, controlled by web interface.
 * [native-libandroidthings](https://github.com/androidthings/native-libandroidthings) ⚠️ Archived - Android Things Native Library.
 * [example Speech-To-Text](https://github.com/Nilhcem/audiofun-androidthings/tree/pocketsphinx/) ⭐ 27 | 🐛 2 | 🌐 Java | 📅 2017-02-26 Speech-to-text with open source CMU Pocketsphinx recognizer.
 * [Remote Storage](https://github.com/kevalpatel2106/remote-storage-android-things) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2017-05-11 - Create an FTP server using on raspberry pi and build your own wireless storage & backup solution for home.
@@ -132,4 +132,4 @@ Your contributions are always welcome! Just follow the following format: `[refer
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

@@ -42,7 +42,7 @@
                 "open_issues": 14,
                 "owner": "CleverPumpkin",
                 "repo": "CrunchyCalendar",
-                "stars": 648,
+                "stars": 649,
                 "topics": [
                   "android",
                   "calendar",
@@ -484,7 +484,7 @@
                 "open_issues": 1,
                 "owner": "euler2dot7",
                 "repo": "android_things_robot",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:49:19.216Z",
+    "last_updated": "2026-11-10T17:55:24.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome android things tutorials, libraries and much more at one place",
