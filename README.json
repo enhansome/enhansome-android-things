@@ -873,7 +873,7 @@
                 "open_issues": 35,
                 "owner": "androidthings",
                 "repo": "contrib-drivers",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:28.366Z"
@@ -1585,7 +1585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:37:55.704Z",
+    "last_updated": "2026-11-15T17:14:46.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome android things tutorials, libraries and much more at one place",
